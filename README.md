@@ -1,19 +1,20 @@
 # A5: Responsive Design in Bootstrap
 
-The goal with this assignment is to gain practice in an area you see yourself working like design, markup, programming, on a real site. Choose one option:
+The goal with this assignment is to gain practice on a real site in an area you see yourself working like, design, markup, or programming. Choose one option:
 
-1. Work with a partner to redesign and code a desktop and mobile version of the [Davidson College home page](https://www.davidson.edu/)
-1. Work on your own to design and code the mobile version of the current (or a [previous](designs/)) SID project home page
+1. Work with a partner to redesign and code a desktop and mobile version of the [Davidson College home page](https://www.davidson.edu/).
+1. Work on your own to design and code the mobile version of the current (or a [previous](designs/)) SID project home page.
 
 
 ## Instructions
 
 - [ ] Setup
 	- [ ] Fork this repository and clone it to your `critical-web-design` folder on your machine.
-- [ ] Design (where applicable)
+- [ ] Design
   - [ ] Open `designs/1.psd` in Gimp or Photoshop
   - [ ] Your layout should fit within the Bootstrap grid layout.
   - [ ] Make new versions as needed, naming them `2.psd`, `3.psd`, etc.
+  - [ ] When designing a mobile version consider using a [mobile artboard template](https://owenmundy.com/teaching/docs/templates/bootstrap-v4-grid_hackerthemes/bootstrap-v4-grid-artboards.psd), create multiple iterations (>= 3) of your design following the advice given in the class presentations. Research similar designs and try new things out. Make sure to use the actual content in the design and stay organized!
 - [ ] HTML/CSS
   - [ ] Code your design inside `index.html`
   - [ ] Use images and text from the organization's website.
